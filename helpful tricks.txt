@@ -1,0 +1,9 @@
+1.  https://nodejs.org/en/download/
+
+2.  ng new PROJECT_NAME    //for creating new project
+
+3.  npm install --save bootstrap   //  to add bootstrap style in the application by  			adding"../node_modules/bootstrap/dist/css/bootstrap.min.css",  in the "styles" key in the file 
+			".angular-cli.json"
+4.  ng serve
+
+5.  ng g c COMPONENT_NAME
